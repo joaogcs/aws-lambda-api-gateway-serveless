@@ -4,6 +4,8 @@ Run serverless application with AWS Lambda and AWS API Gate
 
 ---
 
+# Setup
+
 ### **How to install**
 
 To install serverless command on console you need to install it globally (-g is not needed in linux)
@@ -20,7 +22,7 @@ yarn install
 
 ---
 
-### Run locally
+### Run local
 
 **With hot-reload using Nodemon**
 
@@ -75,3 +77,7 @@ Now select root path, go to Actions and select Deploy API. Enter your stage and 
 You can view API Gateway URL going to Stages and selecting the stage you created.
 
 ![a0d6d3fb-1350-40e2-8d55-c175f573ba29](assets/a0d6d3fb-1350-40e2-8d55-c175f573ba29.gif)
+
+# Author
+
+* João Gustavo Campos Soares - joaogcsoares1@gmail.com
