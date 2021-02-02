@@ -32,11 +32,7 @@ yarn run dev
 
 ### This repository endpoints
 
-If you try to access some endpoint that doesn't exist the app will return an error with a list of the available endpoints and methods. You can access the same list using endpoint below as well
-
-```
-http://localhost:3000/localhost/help
-```
+If you try to access some endpoint that doesn't exist the app will return an error with a list of the available endpoints and methods.
 
 ---
 

@@ -38,15 +38,6 @@ class App {
       res.status(404)
       res.json(message)
     })
-
-    this.server.use('/help', (req, res) => {
-      const message = {
-        message: 'View all available routes',
-        routes: AllRoutes(this.server)
-      }
-      res.status(200)
-      res.json(message)
-    })
   }
 }
 
