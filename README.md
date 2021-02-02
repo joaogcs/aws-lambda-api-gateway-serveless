@@ -35,7 +35,7 @@ yarn run dev
 If you try to access some endpoint that doesn't exist the app will return an error with a list of the available endpoints and methods. You can access the same list using endpoint below as well
 
 ```
-http://localhost:3000/localhost/dev/help
+http://localhost:3000/localhost/help
 ```
 
 ---
@@ -79,6 +79,3 @@ Now select root path, go to Actions and select Deploy API. Enter your stage and 
 You can view API Gateway URL going to Stages and selecting the stage you created.
 
 ![a0d6d3fb-1350-40e2-8d55-c175f573ba29](assets/a0d6d3fb-1350-40e2-8d55-c175f573ba29.gif)
-
-
-
